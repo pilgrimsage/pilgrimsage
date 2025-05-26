@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm from india<br><br>- 🔭 I’m working as developer<br>- 📚 I'm currently learning LAMP stack stuffs<br>- ⚡ In my free time i hang out with my buddies.</p>
+<p align="left">I'm from india<br><br>- 🔭 I’m working as developer<br>- 📚 I'm currently learning LAMP stack stuffs<br>- ⚡ In my free time i hang out with my buddies or just trekking.</p>
 
 ###
 
